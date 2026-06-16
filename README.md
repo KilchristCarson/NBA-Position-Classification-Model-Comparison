@@ -1,7 +1,7 @@
 Overview:
 
-This repository contains an independent study project comparing machine learning classification  
-models for predicting NBA player positions using advanced statistics. The project evaluates k-Nearest Neighbors (kNN) and  
+This repository contains an independent study project comparing machine learning classification
+models for predicting NBA player positions using advanced statistics. The project evaluates k-Nearest Neighbors (kNN) and
 Support Vector Machine (SVM) classifiers on data from two distinct NBA seasons, 2003–04 and 2024–25, to assess model performance across different eras of play.  
 
 Data:
