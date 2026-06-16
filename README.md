@@ -10,7 +10,7 @@ The datasets include per-game and advanced statistics for NBA players, merged on
 
 Per-game stats: Games played (G), minutes played (MP), field goal attempts (FGA), three-point attempts (3PA), three-point percentage (3P%), three-point attempt rate (3PAr) 
 
-Advanced stats: Offensive rebound percentage (ORB%), defensive rebound percentage (DRB%), total rebound percentage (TRB%), assist percentage (AST%), steal percentage (STL%),  
+Advanced stats: Offensive rebound percentage (ORB%), defensive rebound percentage (DRB%), total rebound percentage (TRB%), assist percentage (AST%), steal percentage (STL%),
 block percentage (BLK%), turnover percentage (TOV%), usage percentage (USG%)  
 
 The target variable is the player's position (Pos), with classes including PG, SG, SF, PF, and C.  
